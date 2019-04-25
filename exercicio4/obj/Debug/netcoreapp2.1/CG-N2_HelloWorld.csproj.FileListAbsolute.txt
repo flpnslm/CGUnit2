@@ -53,3 +53,14 @@ C:\Users\Felipe Anselmo\Documents\Computação Gráfica\gcg-cg\Exercicios\exerci
 C:\Users\Felipe Anselmo\Documents\Computação Gráfica\gcg-cg\Exercicios\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.AssemblyInfo.cs
 C:\Users\Felipe Anselmo\Documents\Computação Gráfica\gcg-cg\Exercicios\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.dll
 C:\Users\Felipe Anselmo\Documents\Computação Gráfica\gcg-cg\Exercicios\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.pdb
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.deps.json
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.runtimeconfig.json
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.runtimeconfig.dev.json
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.dll
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\bin\Debug\netcoreapp2.1\CG-N2_HelloWorld.pdb
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.csprojAssemblyReference.cache
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.AssemblyInfo.cs
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.dll
+C:\Users\Felipe Anselmo\Documents\Computação Gráfica\CGUnit2\exercicio4\obj\Debug\netcoreapp2.1\CG-N2_HelloWorld.pdb

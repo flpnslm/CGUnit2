@@ -815,11 +815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\CGUnit2\\exercicio4\\CG-N2_HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\CGUnit2\\exercicio5\\CG-N2_HelloWorld.csproj",
       "projectName": "CG-N2_HelloWorld",
-      "projectPath": "C:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\CGUnit2\\exercicio4\\CG-N2_HelloWorld.csproj",
+      "projectPath": "C:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\CGUnit2\\exercicio5\\CG-N2_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Felipe Anselmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\CGUnit2\\exercicio4\\obj\\",
+      "outputPath": "C:\\Users\\Felipe Anselmo\\Documents\\Computação Gráfica\\CGUnit2\\exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
